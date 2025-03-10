@@ -1,5 +1,5 @@
 # Image_Conversion_Tool
-Support mutiple image format and both Windows &amp; MacOS system.
+Support mutiple image format conversion on both Windows &amp; MacOS system.
 
 ## Windows：
 <img src="https://github.com/user-attachments/assets/8897e471-9916-4bb4-9082-ced1ab4569b2" alt="screenshoot-1" width="50%">
