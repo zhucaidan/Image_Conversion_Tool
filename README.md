@@ -1,4 +1,5 @@
 # Image_Conversion_Tool
+基于Python的支持多个图片格式互相转换的工具，可在Windows和MacOS中运行
 Support mutiple image format conversion on Windows &amp; MacOS system.
 
 ## Windows：
